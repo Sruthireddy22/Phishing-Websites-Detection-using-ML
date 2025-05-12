@@ -106,6 +106,16 @@ Full functionality testing on realistic inputs.
 Acceptance Testing:
 
 Verifies that the system behaves as expected in real-world scenarios.
+How to Run
+# Clone this repo
+git clone https://github.com/your-username/phishing-detection-ml.git
+cd phishing-detection-ml
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+python app.py
 
 🧠 Conclusion
 This machine learning-based system effectively addresses phishing website detection with high accuracy and minimal false positives. By analyzing features rather than relying on blacklists, it adapts better to newly emerging phishing methods.
