@@ -109,7 +109,7 @@ Verifies that the system behaves as expected in real-world scenarios.
 How to Run
 # Clone this repo
 git clone https://github.com/Sruthireddy22/Phishing-Websites-Detection-using-ML.git
-cd Dete
+cd Detection of Phishing Websites
 
 # Install dependencies
 pip install -r requirements.pdf
