@@ -112,7 +112,7 @@ git clone https://github.com/Sruthireddy22/Phishing-Websites-Detection-using-ML.
 cd Detection of Phishing Websites
 
 # Install dependencies
-pip install -r requirements.pdf
+pip install -r REQUIREMENTS.pdf
 
 # Run the app
 python app.py
