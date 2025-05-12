@@ -108,7 +108,7 @@ Acceptance Testing:
 Verifies that the system behaves as expected in real-world scenarios.
 How to Run
 # Clone this repo
-git clone https://github.com/your-username/phishing-detection-ml.git
+git clone 
 cd phishing-detection-ml
 
 # Install dependencies
